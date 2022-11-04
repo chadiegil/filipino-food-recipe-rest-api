@@ -37,5 +37,21 @@
       "ginger",
       "magic sarap"
     ]
+  },
+  {
+    "id": 4,
+    "name": "Salad",
+    "ingredients": [
+      "kaong",
+      "mango",
+      "condence milk",
+      "buko juice",
+      "pineapple"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti",
+    "ingredients": ["spaghetti", "condence milk", "tomato sauce", "pork"]
   }
 ]
