@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Adobo",
+    "ingredients": [
+      "chicken",
+      "soy sauce",
+      "salt",
+      "potato",
+      "magic sarap",
+      "garlic",
+      "onion"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "fish kinilaw",
+    "ingredients": [
+      "fresh fist",
+      "salt",
+      "vinegar",
+      "chilli",
+      "garlic",
+      "ginger",
+      "magic sarap"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Grilled Pork",
+    "ingredients": [
+      "pork",
+      "salt",
+      "vinegar",
+      "chilli",
+      "garlic",
+      "ginger",
+      "magic sarap"
+    ]
+  }
+]
